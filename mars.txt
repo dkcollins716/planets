@@ -2,4 +2,5 @@ mars is nice.
 mars is read
 i like mars
 Mars has moons, too
-Wolfman will comeout in moonlight
+Wolfman will come out in moonlight
+Wolfman can die in sunlight
